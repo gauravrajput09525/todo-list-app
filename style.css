@@ -1,0 +1,74 @@
+/*body{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+}  */
+/* #TodoApp{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: azure;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    text-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(171, 170, 168);
+    height: 20vh;
+}
+
+#appName{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 5px;
+    text-shadow: 3px 5px 3px #000;
+}
+ #inputBox{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}*/
+
+/* #inputValue{
+    width: 60vw;
+    padding: 1vh;
+    font-size: 20px;
+    outline: none;
+    border:none;
+    border-radius: 4px 0 0 4px;
+    box-shadow: 1px 0.1px 6px 0.5px #000;
+}
+
+.submit{
+    position: relative;
+    background-color: rgb(213, 146, 146);
+    color: #ffff;
+    font-size: 21px;
+    width: 8vw;
+    right: 0.1vw;
+    outline: none;
+    border: none;
+    border-radius:0px 4px 4px 0px;
+    box-shadow: none;
+    transition: 0.3s;
+    cursor: pointer;
+    box-shadow: 1px 0.5px 8.9px 0.5px #000;
+}
+#submit:hover{
+    background-color:  rgb(255, 157, 65);
+}
+.main_todo_div{
+width: 36rem;
+display: grid;
+grid-template-columns: 1fr 0.3fr;
+align-items: center;
+height: auto;
+}  */
